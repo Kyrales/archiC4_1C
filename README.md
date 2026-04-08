@@ -1,3 +1,4 @@
+[![OpenYellow](https://openyellow.openintegrations.dev/data/badges/1052764528.svg)](https://openyellow.org/grid?filter=top&repo=1052764528)
 # Архитектура С4 на 1С
 
 ## Цель
